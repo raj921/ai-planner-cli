@@ -283,8 +283,3 @@ npm test
 ```
 
 
-MIT
-
-## 🙏 Acknowledgments
-
-Inspired by Traycer AI's intelligent planning layer concept, which revolutionizes how we think about AI-assisted software development.
