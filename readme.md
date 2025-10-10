@@ -282,26 +282,6 @@ npm run build
 npm test
 ```
 
-## 🎯 What Makes This a "Planning Layer"?
-
-Unlike traditional coding assistants that immediately start making changes, this planning layer:
-
-1. **Thinks Before Acting**: Analyzes the task comprehensively
-2. **Routes Intelligently**: Selects the right tool for the job
-3. **Provides Transparency**: Shows its reasoning process
-4. **Optimizes Resources**: Uses appropriate depth of analysis
-5. **Maintains Boundaries**: Clear separation between analysis and execution
-
-## 📚 Future Enhancements
-
-- [ ] Add codebase context integration (read actual project files)
-- [ ] Add support for custom agent definitions
-- [ ] Create web interface alongside CLI
-- [ ] Add conversation history and context
-- [ ] Implement feedback loop for improving routing decisions
-- [ ] Add verification layer to check implementation against plan
-
-## 📄 License
 
 MIT
 
